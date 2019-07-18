@@ -1,1 +1,1 @@
-CREATE TABLE T (A, B, C);
+CRE ATE TABLE T (A, B, C);

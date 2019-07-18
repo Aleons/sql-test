@@ -1,1 +1,3 @@
 script: sqlite3 test.db < test.sql
+notifications:
+  email: false
